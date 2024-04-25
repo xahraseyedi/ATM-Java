@@ -1,5 +1,3 @@
-//https://www.youtube.com/watch?v=dfhmTyRTCSQ
-//از این ویدیو کمک گرفتم
 
 
 import javax.swing.*;
